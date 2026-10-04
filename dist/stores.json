@@ -1,0 +1,937 @@
+{
+  "schemaVersion": 1,
+  "stores": [
+    {
+      "id": "s-5b69381ba83c6e01",
+      "name": "來玩聚-台北地下街店",
+      "region": "台北市",
+      "lineId": "@453cqkyj",
+      "aliases": [
+        "來玩聚-台北地下街店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-d416a2be32698c3d",
+      "name": "新楠家樂福",
+      "region": "高雄市",
+      "lineId": "@022itqlw",
+      "aliases": [
+        "新楠家樂福",
+        "來玩聚-新楠店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-1fd064eba5cb4b70",
+      "name": "台南新仁家樂福",
+      "region": "台南市",
+      "lineId": "@162fxyom",
+      "aliases": [
+        "台南新仁家樂福",
+        "來玩聚-新仁店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-372bb48207d2e366",
+      "name": "彰化家樂福",
+      "region": "彰化縣",
+      "lineId": "@766sgllj",
+      "aliases": [
+        "彰化家樂福",
+        "來玩聚-彰化店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-e86c5db45e9f19c2",
+      "name": "員林大潤發",
+      "region": "彰化縣",
+      "lineId": "@958tzuco",
+      "aliases": [
+        "員林大潤發",
+        "來玩聚-員林店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-d5db8f85392da362",
+      "name": "斗六家樂福",
+      "region": "雲林縣",
+      "lineId": "@rsp8657s",
+      "aliases": [
+        "斗六家樂福",
+        "來玩聚-斗六店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-2c01f65b997bb8a5",
+      "name": "鳳山家樂福",
+      "region": "高雄市",
+      "lineId": "@189yvcce",
+      "aliases": [
+        "鳳山家樂福",
+        "來玩聚 鳳山店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-8d8d02ceb91e78ba",
+      "name": "楠梓家樂福",
+      "region": "高雄市",
+      "lineId": "@241cmnww",
+      "aliases": [
+        "楠梓家樂福",
+        "來玩聚-楠梓店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-5c324c60e7df86c1",
+      "name": "新屏家樂福",
+      "region": "屏東縣",
+      "lineId": "@308oaews",
+      "aliases": [
+        "新屏家樂福",
+        "來玩聚 新屏店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-edcbb030d8359482",
+      "name": "台北忠孝遠東SOGO",
+      "region": "台北市",
+      "lineId": "@lcn7452p",
+      "aliases": [
+        "台北忠孝遠東SOGO",
+        "Funbox 忠孝SOGO店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-ebfb4ac460b11f9f",
+      "name": "三越南西",
+      "region": "台北市",
+      "lineId": "@626iceit",
+      "aliases": [
+        "三越南西",
+        "Funbox 新光三越南西店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-4f970f7f87e92e7a",
+      "name": "三越站前",
+      "region": "台北市",
+      "lineId": "@631ovgxp",
+      "aliases": [
+        "三越站前",
+        "Funbox 新光三越站前店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-3ff5a06b4f198987",
+      "name": "天母SOGO",
+      "region": "台北市",
+      "lineId": "@377cbfue",
+      "aliases": [
+        "天母SOGO",
+        "Funbox-天母SOGO店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-9e39dfca2d40ebb5",
+      "name": "高島屋百貨",
+      "region": "台北市",
+      "lineId": "@xbm4599s",
+      "aliases": [
+        "高島屋百貨",
+        "Funbox 大葉高島屋店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-d8ed5cb366ed55fb",
+      "name": "比漾廣場",
+      "region": "新北市",
+      "lineId": "@ufq5307a",
+      "aliases": [
+        "比漾廣場",
+        "Funbox 比漾廣場店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-313f66d20f04f27e",
+      "name": "桃園站前",
+      "region": "桃園市",
+      "lineId": "@fcm1241y",
+      "aliases": [
+        "桃園站前",
+        "Funbox 桃園新光站前店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-cc19e1544ca5efa4",
+      "name": "桃園遠東",
+      "region": "桃園市",
+      "lineId": "@bix0595a",
+      "aliases": [
+        "桃園遠東",
+        "Funbox 桃園遠東店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-2ddf73583c68b93f",
+      "name": "信義新天地A8館",
+      "region": "台北市",
+      "lineId": "@983dfazy",
+      "aliases": [
+        "信義新天地A8館",
+        "Funbox 信義A8店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-143dde3f714451a3",
+      "name": "新竹遠東",
+      "region": "新竹市",
+      "lineId": "@822rfnmr",
+      "aliases": [
+        "新竹遠東"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-8994a5652340bbf7",
+      "name": "中壢SOGO",
+      "region": "桃園市",
+      "lineId": "@xcs3672w",
+      "aliases": [
+        "中壢SOGO",
+        "Funbox 中壢SOGO店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-5bed50333c171920",
+      "name": "板橋遠東",
+      "region": "新北市",
+      "lineId": "@083zoknr",
+      "aliases": [
+        "板橋遠東",
+        "Funbox 板橋遠百中山店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-86b2e03583e5cec6",
+      "name": "中和環球",
+      "region": "新北市",
+      "lineId": "@zgq9395a",
+      "aliases": [
+        "中和環球",
+        "Funbox 中和環球店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-63001acc3276114f",
+      "name": "板橋大遠百",
+      "region": "新北市",
+      "lineId": "@585clqqg",
+      "aliases": [
+        "板橋大遠百",
+        "Funbox 板橋大遠百店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-402f2e1167c4fccf",
+      "name": "新竹巨城",
+      "region": "新竹市",
+      "lineId": "@532otwmb",
+      "aliases": [
+        "新竹巨城",
+        "Funbox 新竹巨城店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-3b1a26a83f82f6f5",
+      "name": "美麗華",
+      "region": "台北市",
+      "lineId": "@660hextn",
+      "aliases": [
+        "美麗華",
+        "Funbox 美麗華店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-0af2ca42a7e1b73d",
+      "name": "中壢大江",
+      "region": "桃園市",
+      "lineId": "@099ldnvw",
+      "aliases": [
+        "中壢大江",
+        "Funbox 中壢大江店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-9540044d12b1c728",
+      "name": "新月廣場",
+      "region": "宜蘭縣",
+      "lineId": "@027iendl",
+      "aliases": [
+        "新月廣場",
+        "Funbox 宜蘭新月廣場店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-1d60fa7c12cf2370",
+      "name": "潤泰南港車站店",
+      "region": "台北市",
+      "lineId": "@924tguor",
+      "aliases": [
+        "潤泰南港車站店",
+        "Funbox 南港潤泰店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-52e257b3b1254049",
+      "name": "苗栗尚順",
+      "region": "苗栗縣",
+      "lineId": "@185vowmo",
+      "aliases": [
+        "苗栗尚順",
+        "Funbox 苗栗尚順店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-cde2473e68b17f2a",
+      "name": "汐科遠雄",
+      "region": "新北市",
+      "lineId": "@mhb3876c",
+      "aliases": [
+        "汐科遠雄",
+        "Funbox 汐科遠雄店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-46352986f9158f2e",
+      "name": "桃園環球A8",
+      "region": "桃園市",
+      "lineId": "@lae4656h",
+      "aliases": [
+        "桃園環球A8",
+        "Funbox 桃園環球A8店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-b2529702afd7d059",
+      "name": "新竹遠雄湳雅",
+      "region": "新竹市",
+      "lineId": "@agl4214l",
+      "aliases": [
+        "新竹遠雄湳雅",
+        "Funbox 新竹遠雄店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-c310fd8ebdabff35",
+      "name": "樹林秀泰",
+      "region": "新北市",
+      "lineId": "@046txnme",
+      "aliases": [
+        "樹林秀泰",
+        "Funbox 樹林秀泰店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-019548aa3eaff917",
+      "name": "淡水禮萊廣場",
+      "region": "新北市",
+      "lineId": "@944creff",
+      "aliases": [
+        "淡水禮萊廣場",
+        "Funbox 淡水禮萊廣場店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-de8eef37dbcd9209",
+      "name": "天母三越",
+      "region": "台北市",
+      "lineId": "@237annfd",
+      "aliases": [
+        "天母三越",
+        "Funbox 天母三越店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-3f8862952daf5060",
+      "name": "遠百信義A13",
+      "region": "台北市",
+      "lineId": "@020sqlyp",
+      "aliases": [
+        "遠百信義A13",
+        "Funbox 遠百信義A13店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-c1a5e409f741d9cc",
+      "name": "台茂購物中心",
+      "region": "桃園市",
+      "lineId": "@504tdsbb",
+      "aliases": [
+        "台茂購物中心",
+        "Funbox 桃園台茂店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-f48cf88e5d1d480c",
+      "name": "宏匯廣場",
+      "region": "新北市",
+      "lineId": "@513vgbqo",
+      "aliases": [
+        "宏匯廣場"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-1f306fb163fbb6b8",
+      "name": "桃園環球A19",
+      "region": "桃園市",
+      "lineId": "@403qwxdn",
+      "aliases": [
+        "桃園環球A19",
+        "Funbox 環球桃園A19店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-02ec25761c290301",
+      "name": "竹北遠東",
+      "region": "新竹縣",
+      "lineId": "@642vdyvq",
+      "aliases": [
+        "竹北遠東",
+        "Funbox 竹北遠東店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-b4c5aaab0762ebdc",
+      "name": "新竹享平方",
+      "region": "新竹縣",
+      "lineId": "@062qoqex",
+      "aliases": [
+        "新竹享平方",
+        "Funbox 享平方店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-da9878b59bc9d995",
+      "name": "新店裕隆城",
+      "region": "新北市",
+      "lineId": "@491uicsm",
+      "aliases": [
+        "新店裕隆城",
+        "Funbox 新店誠品裕隆城店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-7f830f99e066b4b7",
+      "name": "南港LaLaport",
+      "region": "台北市",
+      "lineId": "@924ngwfb",
+      "aliases": [
+        "南港LaLaport",
+        "Funbox LaLaport南港店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-8b87015b377609a9",
+      "name": "台中中友",
+      "region": "台中市",
+      "lineId": "@815dstuy",
+      "aliases": [
+        "台中中友",
+        "Funbox 台中中友店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-0accfbdf8dcffc58",
+      "name": "豐原太平洋",
+      "region": "台中市",
+      "lineId": "@094mvrhb",
+      "aliases": [
+        "豐原太平洋",
+        "Funbox 豐原太平洋店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-4c698fb76e8e7677",
+      "name": "台中遠東",
+      "region": "台中市",
+      "lineId": "@147vfxjr",
+      "aliases": [
+        "台中遠東",
+        "Funbox 台中遠東店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-846f3875e9b74998",
+      "name": "廣三SOGO",
+      "region": "台中市",
+      "lineId": "@526bsjmb",
+      "aliases": [
+        "廣三SOGO",
+        "Funbox 廣三SOGO店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-9e549ce9f7fb2534",
+      "name": "台中三越",
+      "region": "台中市",
+      "lineId": "@833rhkmr",
+      "aliases": [
+        "台中三越",
+        "Funbox 新光三越台中中港店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-16608406a8844e53",
+      "name": "嘉義遠東",
+      "region": "嘉義市",
+      "lineId": "@gno1826d",
+      "aliases": [
+        "嘉義遠東",
+        "Funbox 嘉義遠東店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-9afcfb31258a2edf",
+      "name": "嘉義耐斯",
+      "region": "嘉義市",
+      "lineId": "@121vsdww",
+      "aliases": [
+        "嘉義耐斯",
+        "Funbox 嘉義耐斯店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-3a01d11a4b8e506e",
+      "name": "嘉義三越",
+      "region": "嘉義市",
+      "lineId": "@zhj4962p",
+      "aliases": [
+        "嘉義三越",
+        "Funbox 嘉義三越店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-262020eeaa1abb08",
+      "name": "台中新時代",
+      "region": "台中市",
+      "lineId": "@hdg3289a",
+      "aliases": [
+        "台中新時代",
+        "Funbox 台中新時代店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-2fbce75dbb7616c6",
+      "name": "文心秀泰",
+      "region": "台中市",
+      "lineId": "@605dilqq",
+      "aliases": [
+        "文心秀泰",
+        "Funbox 文心秀泰店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-5c70f317ba749533",
+      "name": "麗寶一期",
+      "region": "台中市",
+      "lineId": "@829adhop",
+      "aliases": [
+        "麗寶一期",
+        "Funbox 麗寶一期店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-cbc0f7e2391db9b0",
+      "name": "台中港三井",
+      "region": "台中市",
+      "lineId": "@816xpruh",
+      "aliases": [
+        "台中港三井",
+        "Funbox 台中港三井店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-80f30b2dd1000e99",
+      "name": "台中Lalaport",
+      "region": "台中市",
+      "lineId": "@620dfrfm",
+      "aliases": [
+        "台中Lalaport",
+        "Funbox 台中LaLaport店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-7d09d011661e5fb3",
+      "name": "台中漢神洲際",
+      "region": "台中市",
+      "lineId": "@218xxrbx",
+      "aliases": [
+        "台中漢神洲際",
+        "Funbox 漢神洲際店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-7f081a3d3935dd33",
+      "name": "高雄漢神",
+      "region": "高雄市",
+      "lineId": "@897upgfr",
+      "aliases": [
+        "高雄漢神",
+        "Funbox 高雄漢神店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-068e876c8c94dbf0",
+      "name": "崇光高雄",
+      "region": "高雄市",
+      "lineId": "@845nallq",
+      "aliases": [
+        "崇光高雄",
+        "Funbox 高雄SOGO店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-c617ca163783b589",
+      "name": "屏東太平洋",
+      "region": "屏東縣",
+      "lineId": "@ess7711t",
+      "aliases": [
+        "屏東太平洋",
+        "Funbox 屏東太平洋店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-6b702e26faed99e1",
+      "name": "台南遠百",
+      "region": "台南市",
+      "lineId": "@373rxyat",
+      "aliases": [
+        "台南遠百",
+        "Funbox 台南遠百店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-a4ba3c9731d9b7eb",
+      "name": "高雄大遠百",
+      "region": "高雄市",
+      "lineId": "@204edsnm",
+      "aliases": [
+        "高雄大遠百",
+        "Funbox 高雄大遠百店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-9d0775aaec700bbd",
+      "name": "台南西門",
+      "region": "台南市",
+      "lineId": "@344rybaf",
+      "aliases": [
+        "台南西門",
+        "Funbox 台南新天地店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-503ef4097c663419",
+      "name": "漢神巨蛋",
+      "region": "高雄市",
+      "lineId": "@ldh6278d",
+      "aliases": [
+        "漢神巨蛋",
+        "Funbox 漢神巨蛋店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-d905fa8112bc11a8",
+      "name": "高雄左營",
+      "region": "高雄市",
+      "lineId": "@obz8096l",
+      "aliases": [
+        "高雄左營",
+        "Funbox 高雄左營店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-caea62380b13510b",
+      "name": "夢時代二館",
+      "region": "高雄市",
+      "lineId": "@ott3541o",
+      "aliases": [
+        "夢時代二館",
+        "Funbox 夢時代店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-28791f8238773803",
+      "name": "屏東環球",
+      "region": "屏東縣",
+      "lineId": "@xhi2668e",
+      "aliases": [
+        "屏東環球",
+        "Funbox 屏東環球店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-69accd45655e5ccc",
+      "name": "南紡購物中心",
+      "region": "台南市",
+      "lineId": "@msq0107x",
+      "aliases": [
+        "南紡購物中心",
+        "Funbox 南紡購物中心店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-e62efdc8e944c003",
+      "name": "澎坊商場",
+      "region": "澎湖縣",
+      "lineId": "@185ybuaz",
+      "aliases": [
+        "澎坊商場",
+        "Funbox 澎湖3號港店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-fe68d844092ea5aa",
+      "name": "高雄大立",
+      "region": "高雄市",
+      "lineId": "@917hatdy",
+      "aliases": [
+        "高雄大立",
+        "Funbox 高雄大立店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-105f7d84a1365d97",
+      "name": "義大二館",
+      "region": "高雄市",
+      "lineId": "@bxd6822t",
+      "aliases": [
+        "義大二館",
+        "Funbox 義大2館"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-925bbb61e6cb0e41",
+      "name": "義享天地",
+      "region": "高雄市",
+      "lineId": "@777nkbeo",
+      "aliases": [
+        "義享天地",
+        "Funbox 高雄義享店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-7ee9102b82e20a7c",
+      "name": "大魯閣新光",
+      "region": "高雄市",
+      "lineId": "@fko7562c",
+      "aliases": [
+        "大魯閣新光",
+        "Funbox 大魯閣新光店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-fa027cf6c6dd2c41",
+      "name": "台南三井",
+      "region": "台南市",
+      "lineId": "@212isujx",
+      "aliases": [
+        "台南三井",
+        "Funbox 台南三井店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-cbf0995d61e88c5b",
+      "name": "花蓮遠東",
+      "region": "花蓮縣",
+      "lineId": "@ymc0892z",
+      "aliases": [
+        "花蓮遠東",
+        "Funbox 花蓮店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-4025bb8de8a9bc3c",
+      "name": "台東家樂福",
+      "region": "台東縣",
+      "lineId": "@438glrqv",
+      "aliases": [
+        "台東家樂福",
+        "來玩聚 台東家樂福"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-19ec801d56712499",
+      "name": "台東秀泰",
+      "region": "台東縣",
+      "lineId": "@438glrqv",
+      "aliases": [
+        "台東秀泰",
+        "Funbox 台東秀泰店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    },
+    {
+      "id": "s-da1feda4b172e61e",
+      "name": "Funbox 台北大巨蛋店",
+      "region": "台北市",
+      "lineId": null,
+      "aliases": [
+        "Funbox 台北大巨蛋店"
+      ],
+      "facebookUrls": [],
+      "sourceStatus": "needs-source-verification"
+    }
+  ]
+}
