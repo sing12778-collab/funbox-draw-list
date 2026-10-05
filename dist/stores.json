@@ -7,10 +7,13 @@
       "region": "台北市",
       "lineId": "@453cqkyj",
       "aliases": [
-        "來玩聚-台北地下街店"
+        "來玩聚-台北地下街店",
+        "台北地下街16號"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/playtogethertaipei/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-d416a2be32698c3d",
@@ -21,8 +24,10 @@
         "新楠家樂福",
         "來玩聚-新楠店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/playtogetherxinnan/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-1fd064eba5cb4b70",
@@ -33,8 +38,10 @@
         "台南新仁家樂福",
         "來玩聚-新仁店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1Hv1WWGdas/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-372bb48207d2e366",
@@ -45,8 +52,10 @@
         "彰化家樂福",
         "來玩聚-彰化店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/197exbwVg4/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-e86c5db45e9f19c2",
@@ -57,8 +66,10 @@
         "員林大潤發",
         "來玩聚-員林店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1G4PSnJwYF/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-d5db8f85392da362",
@@ -69,8 +80,10 @@
         "斗六家樂福",
         "來玩聚-斗六店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592548304641"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-2c01f65b997bb8a5",
@@ -81,8 +94,10 @@
         "鳳山家樂福",
         "來玩聚 鳳山店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61580005648574"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-8d8d02ceb91e78ba",
@@ -93,8 +108,10 @@
         "楠梓家樂福",
         "來玩聚-楠梓店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/playtogethernanzi"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-5c324c60e7df86c1",
@@ -105,8 +122,10 @@
         "新屏家樂福",
         "來玩聚 新屏店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592843825201"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-edcbb030d8359482",
@@ -117,8 +136,10 @@
         "台北忠孝遠東SOGO",
         "Funbox 忠孝SOGO店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/funboxsogo"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-ebfb4ac460b11f9f",
@@ -129,8 +150,10 @@
         "三越南西",
         "Funbox 新光三越南西店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1BuSqwADRT/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-4f970f7f87e92e7a",
@@ -141,8 +164,10 @@
         "三越站前",
         "Funbox 新光三越站前店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61593176934292"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-3ff5a06b4f198987",
@@ -153,8 +178,10 @@
         "天母SOGO",
         "Funbox-天母SOGO店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592597564673"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-9e39dfca2d40ebb5",
@@ -166,7 +193,7 @@
         "Funbox 大葉高島屋店"
       ],
       "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "sourceStatus": "paused"
     },
     {
       "id": "s-d8ed5cb366ed55fb",
@@ -177,8 +204,10 @@
         "比漾廣場",
         "Funbox 比漾廣場店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592677934745"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-313f66d20f04f27e",
@@ -189,8 +218,10 @@
         "桃園站前",
         "Funbox 桃園新光站前店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100064059014450"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-cc19e1544ca5efa4",
@@ -201,8 +232,10 @@
         "桃園遠東",
         "Funbox 桃園遠東店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100064240476385"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-2ddf73583c68b93f",
@@ -213,8 +246,10 @@
         "信義新天地A8館",
         "Funbox 信義A8店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61593106704912"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-143dde3f714451a3",
@@ -224,8 +259,10 @@
       "aliases": [
         "新竹遠東"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591842121755"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-8994a5652340bbf7",
@@ -236,8 +273,10 @@
         "中壢SOGO",
         "Funbox 中壢SOGO店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61558958859748"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-5bed50333c171920",
@@ -248,8 +287,10 @@
         "板橋遠東",
         "Funbox 板橋遠百中山店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1BmnHxAaZ7/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-86b2e03583e5cec6",
@@ -260,8 +301,10 @@
         "中和環球",
         "Funbox 中和環球店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61575325211390"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-63001acc3276114f",
@@ -272,8 +315,10 @@
         "板橋大遠百",
         "Funbox 板橋大遠百店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61584956488867"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-402f2e1167c4fccf",
@@ -284,8 +329,10 @@
         "新竹巨城",
         "Funbox 新竹巨城店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1D2TZJ7pr3/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-3b1a26a83f82f6f5",
@@ -296,8 +343,10 @@
         "美麗華",
         "Funbox 美麗華店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592730395195"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-0af2ca42a7e1b73d",
@@ -308,8 +357,10 @@
         "中壢大江",
         "Funbox 中壢大江店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100063657227053"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-9540044d12b1c728",
@@ -320,8 +371,10 @@
         "新月廣場",
         "Funbox 宜蘭新月廣場店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/funboxtoyluna/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-1d60fa7c12cf2370",
@@ -332,8 +385,10 @@
         "潤泰南港車站店",
         "Funbox 南港潤泰店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592736394851"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-52e257b3b1254049",
@@ -344,8 +399,10 @@
         "苗栗尚順",
         "Funbox 苗栗尚順店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1DZmr5Njyk/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-cde2473e68b17f2a",
@@ -356,8 +413,10 @@
         "汐科遠雄",
         "Funbox 汐科遠雄店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592991209842"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-46352986f9158f2e",
@@ -368,8 +427,10 @@
         "桃園環球A8",
         "Funbox 桃園環球A8店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591728303067"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-b2529702afd7d059",
@@ -380,8 +441,10 @@
         "新竹遠雄湳雅",
         "Funbox 新竹遠雄店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592712696197"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-c310fd8ebdabff35",
@@ -392,8 +455,10 @@
         "樹林秀泰",
         "Funbox 樹林秀泰店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591486063647"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-019548aa3eaff917",
@@ -404,8 +469,10 @@
         "淡水禮萊廣場",
         "Funbox 淡水禮萊廣場店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1Db8rVD6Hk/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-de8eef37dbcd9209",
@@ -416,8 +483,10 @@
         "天母三越",
         "Funbox 天母三越店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1K6XRBMujq/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-3f8862952daf5060",
@@ -428,8 +497,10 @@
         "遠百信義A13",
         "Funbox 遠百信義A13店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61551944767554"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-c1a5e409f741d9cc",
@@ -440,8 +511,10 @@
         "台茂購物中心",
         "Funbox 桃園台茂店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61590975990981"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-f48cf88e5d1d480c",
@@ -452,7 +525,7 @@
         "宏匯廣場"
       ],
       "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "sourceStatus": "paused"
     },
     {
       "id": "s-1f306fb163fbb6b8",
@@ -463,8 +536,10 @@
         "桃園環球A19",
         "Funbox 環球桃園A19店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100083960592067"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-02ec25761c290301",
@@ -475,8 +550,10 @@
         "竹北遠東",
         "Funbox 竹北遠東店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/ZhubeiFunbox/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-b4c5aaab0762ebdc",
@@ -487,8 +564,10 @@
         "新竹享平方",
         "Funbox 享平方店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/193j7smii9/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-da9878b59bc9d995",
@@ -499,8 +578,10 @@
         "新店裕隆城",
         "Funbox 新店誠品裕隆城店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/19E9UZWhK9/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-7f830f99e066b4b7",
@@ -511,8 +592,10 @@
         "南港LaLaport",
         "Funbox LaLaport南港店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/14jPaVWXoLJ/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-8b87015b377609a9",
@@ -523,8 +606,10 @@
         "台中中友",
         "Funbox 台中中友店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100063893358626"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-0accfbdf8dcffc58",
@@ -535,8 +620,10 @@
         "豐原太平洋",
         "Funbox 豐原太平洋店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592589610506"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-4c698fb76e8e7677",
@@ -547,8 +634,10 @@
         "台中遠東",
         "Funbox 台中遠東店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1EZCDU6tF1/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-846f3875e9b74998",
@@ -559,8 +648,10 @@
         "廣三SOGO",
         "Funbox 廣三SOGO店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1JaCvYo7ao/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-9e549ce9f7fb2534",
@@ -571,8 +662,10 @@
         "台中三越",
         "Funbox 新光三越台中中港店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591770278850"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-16608406a8844e53",
@@ -583,8 +676,10 @@
         "嘉義遠東",
         "Funbox 嘉義遠東店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592768918548"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-9afcfb31258a2edf",
@@ -595,8 +690,10 @@
         "嘉義耐斯",
         "Funbox 嘉義耐斯店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591841012874"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-3a01d11a4b8e506e",
@@ -607,8 +704,10 @@
         "嘉義三越",
         "Funbox 嘉義三越店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1ELX2AJ1ue/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-262020eeaa1abb08",
@@ -619,8 +718,10 @@
         "台中新時代",
         "Funbox 台中新時代店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1J3PLMbDSN/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-2fbce75dbb7616c6",
@@ -631,8 +732,10 @@
         "文心秀泰",
         "Funbox 文心秀泰店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/19F2BoUzUv/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-5c70f317ba749533",
@@ -643,8 +746,10 @@
         "麗寶一期",
         "Funbox 麗寶一期店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592814215979"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-cbc0f7e2391db9b0",
@@ -655,8 +760,10 @@
         "台中港三井",
         "Funbox 台中港三井店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1Jj8ybhtUR/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-80f30b2dd1000e99",
@@ -667,8 +774,10 @@
         "台中Lalaport",
         "Funbox 台中LaLaport店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591544926718"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-7d09d011661e5fb3",
@@ -679,8 +788,10 @@
         "台中漢神洲際",
         "Funbox 漢神洲際店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61592777043158"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-7f081a3d3935dd33",
@@ -691,8 +802,10 @@
         "高雄漢神",
         "Funbox 高雄漢神店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1LrCbM7p9k/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-068e876c8c94dbf0",
@@ -703,8 +816,10 @@
         "崇光高雄",
         "Funbox 高雄SOGO店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/19E7invurA/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-c617ca163783b589",
@@ -715,8 +830,10 @@
         "屏東太平洋",
         "Funbox 屏東太平洋店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1bsqHbH5yg/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-6b702e26faed99e1",
@@ -727,8 +844,10 @@
         "台南遠百",
         "Funbox 台南遠百店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/19JiPRLTe3/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-a4ba3c9731d9b7eb",
@@ -739,8 +858,10 @@
         "高雄大遠百",
         "Funbox 高雄大遠百店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1Asnih4jRc/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-9d0775aaec700bbd",
@@ -751,8 +872,10 @@
         "台南西門",
         "Funbox 台南新天地店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1EgGWhL2my/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-503ef4097c663419",
@@ -763,8 +886,10 @@
         "漢神巨蛋",
         "Funbox 漢神巨蛋店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1JMvwfTqpu/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-d905fa8112bc11a8",
@@ -775,8 +900,10 @@
         "高雄左營",
         "Funbox 高雄左營店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/100057115973730/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-caea62380b13510b",
@@ -787,8 +914,10 @@
         "夢時代二館",
         "Funbox 夢時代店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1iiWSKHcvP/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-28791f8238773803",
@@ -799,8 +928,10 @@
         "屏東環球",
         "Funbox 屏東環球店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61591804545442"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-69accd45655e5ccc",
@@ -811,8 +942,10 @@
         "南紡購物中心",
         "Funbox 南紡購物中心店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=100057043616291"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-e62efdc8e944c003",
@@ -823,8 +956,10 @@
         "澎坊商場",
         "Funbox 澎湖3號港店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1G6GUr5oYt/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-fe68d844092ea5aa",
@@ -835,8 +970,10 @@
         "高雄大立",
         "Funbox 高雄大立店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1CLmgDDbFw/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-105f7d84a1365d97",
@@ -847,8 +984,10 @@
         "義大二館",
         "Funbox 義大2館"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1BwVM2Q3UP/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-925bbb61e6cb0e41",
@@ -859,8 +998,10 @@
         "義享天地",
         "Funbox 高雄義享店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1EGnZY5Wad/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-7ee9102b82e20a7c",
@@ -871,8 +1012,10 @@
         "大魯閣新光",
         "Funbox 大魯閣新光店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1EhNbSScWd/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-fa027cf6c6dd2c41",
@@ -883,8 +1026,10 @@
         "台南三井",
         "Funbox 台南三井店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1981qXi5wG/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-cbf0995d61e88c5b",
@@ -895,20 +1040,24 @@
         "花蓮遠東",
         "Funbox 花蓮店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1Bq2zmw7FK/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-4025bb8de8a9bc3c",
       "name": "台東家樂福",
       "region": "台東縣",
-      "lineId": "@438glrqv",
+      "lineId": "@114pqrny",
       "aliases": [
         "台東家樂福",
         "來玩聚 台東家樂福"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1HUbNCK6iE/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-19ec801d56712499",
@@ -919,19 +1068,24 @@
         "台東秀泰",
         "Funbox 台東秀泰店"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/share/1BTxAEJsEC/"
+      ],
+      "sourceStatus": "configured-user-provided"
     },
     {
       "id": "s-da1feda4b172e61e",
       "name": "Funbox 台北大巨蛋店",
       "region": "台北市",
-      "lineId": null,
+      "lineId": "@248eexma",
       "aliases": [
-        "Funbox 台北大巨蛋店"
+        "Funbox 台北大巨蛋店",
+        "遠東大巨蛋"
       ],
-      "facebookUrls": [],
-      "sourceStatus": "needs-source-verification"
+      "facebookUrls": [
+        "https://www.facebook.com/profile.php?id=61593737335376"
+      ],
+      "sourceStatus": "configured-user-provided"
     }
   ]
 }
