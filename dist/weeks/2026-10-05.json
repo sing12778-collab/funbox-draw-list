@@ -9579,7 +9579,114 @@
       "fetchedAt": "2026-10-07T18:00:24.854Z",
       "parseStatus": "parsed",
       "week": "2026-10-05"
+    },
+    {
+      "id": "r-feb6529d71b1645a",
+      "storeId": "s-da9878b59bc9d995",
+      "storeName": "新店裕隆城",
+      "region": "新北市",
+      "productCode": "CX-00",
+      "productName": "1.新世紀福音戰士聯名款",
+      "startTime": "11:00",
+      "startsAt": "2026-10-08T11:00:00+08:00",
+      "endsAt": "2026-10-09T21:00:00+08:00",
+      "periodText": "2026/10/8 上午11:00 ～ 2026/10/8（四）11:00 ～ 2026/10/9（五）11:00",
+      "lineUrl": "https://lin.ee/slFwglr",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02oxEm56T5HVR3FBXaa3c8rR43Vmd5pCNzMFvfRNgcZshP9ULmg1gzEFck9LBzRfP1l&id=61550966930126",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-10-07T18:11:47.811Z",
+      "parseStatus": "parsed",
+      "week": "2026-10-05",
+      "productConfirmation": {
+        "week": "2026-10-05",
+        "lineUrl": "https://lin.ee/slFwglr",
+        "productName": "新世紀福音戰士聯名款",
+        "productCode": "CX-00",
+        "confirmedBy": "user"
+      },
+      "purchaseWindows": [
+        {
+          "startsAt": "2026-10-08T11:00:00+08:00",
+          "endsAt": "2026-10-08T21:30:00+08:00"
+        },
+        {
+          "startsAt": "2026-10-09T11:00:00+08:00",
+          "endsAt": "2026-10-09T21:00:00+08:00"
+        }
+      ]
+    },
+    {
+      "id": "r-df0bcd9011c6b297",
+      "storeId": "s-fa027cf6c6dd2c41",
+      "storeName": "台南三井",
+      "region": "台南市",
+      "productCode": "CX-03",
+      "productName": "1.CX-03 英仙幽冥",
+      "startTime": "11:00",
+      "startsAt": "2026-10-08T11:00:00+08:00",
+      "endsAt": "2026-10-09T20:30:00+08:00",
+      "periodText": "2026/10/8 ～ 2026/10/9\n ～ 2026/10/8 11:00 ～ 2026/10/9  20:30",
+      "lineUrl": "https://lin.ee/QQHUMM3",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-10-07T18:14:28.085Z",
+      "parseStatus": "parsed",
+      "week": "2026-10-05",
+      "yearConfirmation": {
+        "week": "2026-10-05",
+        "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+        "year": 2026,
+        "confirmedBy": "user-current-cycle-review"
+      }
+    },
+    {
+      "id": "r-2d9eac885f00933d",
+      "storeId": "s-fa027cf6c6dd2c41",
+      "storeName": "台南三井",
+      "region": "台南市",
+      "productCode": "CX-15",
+      "productName": "2.CX-15邪神狂怒",
+      "startTime": "11:00",
+      "startsAt": "2026-10-08T11:00:00+08:00",
+      "endsAt": "2026-10-09T20:30:00+08:00",
+      "periodText": "2026/10/8 ～ 2026/10/9\n ～ 2026/10/8 11:00 ～ 2026/10/9  20:30",
+      "lineUrl": "https://lin.ee/oMvEZQn",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-10-07T18:14:28.085Z",
+      "parseStatus": "parsed",
+      "week": "2026-10-05",
+      "yearConfirmation": {
+        "week": "2026-10-05",
+        "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+        "year": 2026,
+        "confirmedBy": "user-current-cycle-review"
+      }
+    },
+    {
+      "id": "r-f7fde31b5efde50a",
+      "storeId": "s-fa027cf6c6dd2c41",
+      "storeName": "台南三井",
+      "region": "台南市",
+      "productCode": "CX-16",
+      "productName": "3.CX-16 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-10-08T11:00:00+08:00",
+      "endsAt": "2026-10-09T20:30:00+08:00",
+      "periodText": "2026/10/8 ～ 2026/10/9\n ～ 2026/10/8 11:00 ～ 2026/10/9  20:30",
+      "lineUrl": "https://lin.ee/tbcHsFY",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-10-07T18:14:28.085Z",
+      "parseStatus": "parsed",
+      "week": "2026-10-05",
+      "yearConfirmation": {
+        "week": "2026-10-05",
+        "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Hq6UQ3qh4mY72N54v3CVseZQVKeR3Qwy8zLUuZ24WuD2gxQXzS7LjHhN6EkfX3LWl&id=61591963333031",
+        "year": 2026,
+        "confirmedBy": "user-current-cycle-review"
+      }
     }
   ],
-  "updatedAt": "2026-10-07T18:04:56.911Z"
+  "updatedAt": "2026-10-07T18:15:31.050Z"
 }
