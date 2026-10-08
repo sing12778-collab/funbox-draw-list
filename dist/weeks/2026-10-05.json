@@ -11827,6 +11827,24 @@
       "week": "2026-10-05"
     },
     {
+      "id": "r-c78cc400677916b4",
+      "storeId": "s-ebfb4ac460b11f9f",
+      "storeName": "三越南西",
+      "region": "台北市",
+      "productCode": "CX-17",
+      "productName": "CX-17 隨機強化組Vol.10",
+      "startTime": "11:00",
+      "startsAt": "2026-10-08T11:00:00+08:00",
+      "endsAt": "2026-10-09T21:30:00+08:00",
+      "periodText": "2026/10/8 ～ 2026/10/9 ～ 2026/10/8   11：00 ～ 2026/10/9  21：30",
+      "lineUrl": "https://lin.ee/UFD83clh",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid04ooGxPMS444HYPbzw1dxYR6BVaPZ3LWYtJJaPCZ6M34Uzv3H9ud96U8hLZF8Y5eNl&id=100063971526338",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-10-08T04:34:01.671Z",
+      "parseStatus": "parsed",
+      "week": "2026-10-05"
+    },
+    {
       "id": "r-b63f8f1495dba1f1",
       "storeId": "s-7f830f99e066b4b7",
       "storeName": "南港LaLaport",
@@ -14753,25 +14771,6 @@
       "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
-      "id": "r-479d7bec8d07188a",
-      "storeId": "s-3a01d11a4b8e506e",
-      "storeName": "嘉義三越",
-      "region": "嘉義市",
-      "productCode": "UX-03",
-      "productName": "UX-03 魔導神杖",
-      "startTime": "11:00",
-      "startsAt": "2026-10-08T11:00:00+08:00",
-      "endsAt": "2026-10-09T11:00:00+08:00",
-      "periodText": "2026/10/08 11:00 ～ 2026/10/09 11:00",
-      "lineUrl": "https://lin.ee/Op5WwoQ",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-10-08T03:57:11.420Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-10-05",
-      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
-    },
-    {
       "id": "r-9ac1e8e2aa03f74f",
       "storeId": "s-3a01d11a4b8e506e",
       "storeName": "嘉義三越",
@@ -15513,5 +15512,5 @@
       "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     }
   ],
-  "updatedAt": "2026-10-08T04:21:44.708Z"
+  "updatedAt": "2026-10-08T04:39:00.952Z"
 }
