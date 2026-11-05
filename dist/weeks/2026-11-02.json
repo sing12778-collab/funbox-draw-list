@@ -52,13 +52,10 @@
       "lineUrl": "https://lin.ee/Tvg4gmQ",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.869Z",
+      "fetchedAt": "2026-11-05T13:36:34.063Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選開始：2026/11/06 11:00 ｜ 抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-5943efd9b7249f09",
@@ -74,13 +71,10 @@
       "lineUrl": "https://lin.ee/PDLwxMi",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.872Z",
+      "fetchedAt": "2026-11-05T13:36:34.066Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-fa69d8b9a43f3f14",
@@ -96,7 +90,7 @@
       "lineUrl": "https://lin.ee/vvvRyVH",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.872Z",
+      "fetchedAt": "2026-11-05T16:19:02.892Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
       "purchaseWindows": [
@@ -109,32 +103,7 @@
           "endsAt": "2026-11-07T21:00:00+08:00"
         }
       ],
-      "sourcePeriodText": "抽選開始：2026/11/06 11:00 ｜ 購買資格券有效期間：2026/11/06 11:00~22:00、2026/11/07 11:00~21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
-    },
-    {
-      "id": "r-306e73366f486b2c",
-      "storeId": "s-ebfb4ac460b11f9f",
-      "storeName": "三越南西",
-      "region": "台北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
-      "lineUrl": "https://lin.ee/6RUJsXy",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.873Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-24225325bd4869d5",
@@ -150,13 +119,10 @@
       "lineUrl": "https://lin.ee/zFsHsNC",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.873Z",
+      "fetchedAt": "2026-11-05T13:36:34.067Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-d40e17a9a8950cce",
@@ -172,57 +138,10 @@
       "lineUrl": "https://lin.ee/pwLOJHL",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.873Z",
+      "fetchedAt": "2026-11-05T13:36:34.067Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:30",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
-    },
-    {
-      "id": "r-a021ff36ed8cc052",
-      "storeId": "s-3b1a26a83f82f6f5",
-      "storeName": "美麗華",
-      "region": "台北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "未知",
-      "startsAt": null,
-      "endsAt": null,
-      "periodText": "2026/11/06 ～ 2026/11/07\n",
-      "lineUrl": "https://lin.ee/Zkgl6KR",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": null,
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": true,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
-    },
-    {
-      "id": "r-d98c3f2206b3ee1b",
-      "storeId": "s-de8eef37dbcd9209",
-      "storeName": "天母三越",
-      "region": "台北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "未知",
-      "startsAt": null,
-      "endsAt": null,
-      "periodText": "2026/11/06 ～ 2026/11/07\n",
-      "lineUrl": "https://lin.ee/VmSR2SW",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": null,
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": true,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-3b6d8020bb51e954",
@@ -238,13 +157,10 @@
       "lineUrl": "https://lin.ee/XYb3WDA",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T16:19:02.892Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-cbd52fa5c7c08460",
@@ -260,35 +176,10 @@
       "lineUrl": "https://lin.ee/6t8OV07",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.068Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
-    },
-    {
-      "id": "r-f32ce402f07b376d",
-      "storeId": "s-63001acc3276114f",
-      "storeName": "板橋大遠百",
-      "region": "新北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
-      "lineUrl": "https://lin.ee/pdG2WRf",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-0fe47cf1064880e7",
@@ -304,13 +195,10 @@
       "lineUrl": "https://lin.ee/XnFY0wC",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T16:19:02.892Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-0f4304cac281849d",
@@ -326,35 +214,10 @@
       "lineUrl": "https://lin.ee/6Zz23bD",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.068Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
-    },
-    {
-      "id": "r-dcee15fc6e51c0c6",
-      "storeId": "s-da9878b59bc9d995",
-      "storeName": "新店裕隆城",
-      "region": "新北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": null,
-      "periodText": "2026/11/06 11:00",
-      "lineUrl": "https://lin.ee/w7Lm5za",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": "抽選開放：2026/11/06 11:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": true,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-b227d5cea6c32ae9",
@@ -370,35 +233,10 @@
       "lineUrl": "https://lin.ee/WEWWtTB",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.068Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
-    },
-    {
-      "id": "r-666e0b4d6b98ecc3",
-      "storeId": "s-143dde3f714451a3",
-      "storeName": "新竹遠東",
-      "region": "新竹市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "未知",
-      "startsAt": null,
-      "endsAt": null,
-      "periodText": "2026/11/06 ～ 2026/11/07 ",
-      "lineUrl": "https://lin.ee/XGDunvA",
-      "sourceUrl": "https://uxux11.github.io/funbox-line/",
-      "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
-      "parseStatus": "third-party-import",
-      "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06～2026/11/07 ｜ 櫃台結帳時間：每日 11:00~21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": true,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-01ad7c9aa2b424fe",
@@ -414,13 +252,10 @@
       "lineUrl": "https://lin.ee/oAWkyiI",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T16:19:02.892Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00～2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-02a57fd40a72f1a1",
@@ -436,13 +271,10 @@
       "lineUrl": "https://lin.ee/nh8N2rC",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.068Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/兌獎/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-fd52c0b29292aa2e",
@@ -458,13 +290,10 @@
       "lineUrl": "https://lin.ee/yduBiAE",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-b8abfc932137d739",
@@ -480,13 +309,10 @@
       "lineUrl": "https://lin.ee/ORS4uRs",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽籤時間/使用期限：2026/11/06 11:00~2026/11/07 20:30",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-2a7f4c0e0c515b16",
@@ -502,13 +328,10 @@
       "lineUrl": "https://lin.ee/Xls9IhsE",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-26591d0855fadf50",
@@ -524,13 +347,10 @@
       "lineUrl": "https://lin.ee/NiTp9aN",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-530c042324e895cd",
@@ -546,13 +366,10 @@
       "lineUrl": "https://lin.ee/ucNt4EJ",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.874Z",
+      "fetchedAt": "2026-11-05T16:19:02.893Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-ce5efed551cb8514",
@@ -568,7 +385,7 @@
       "lineUrl": "https://lin.ee/qT7lL54",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
       "purchaseWindows": [
@@ -581,10 +398,7 @@
           "endsAt": "2026-11-07T21:00:00+08:00"
         }
       ],
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選資格時間：2026/11/06 11:00~2026/11/07 21:00 ｜ 中籤購買時間：11/06 11:00~22:00、11/07 11:00~21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-f833b1b436dbd0a5",
@@ -600,7 +414,7 @@
       "lineUrl": "https://lin.ee/PPJa8qB",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
       "purchaseWindows": [
@@ -613,10 +427,7 @@
           "endsAt": "2026-11-07T21:00:00+08:00"
         }
       ],
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選開放：2026/11/06 11:00 ｜ 購買資格券有效期間：11/06 11:00~22:00、11/07 11:00~21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-20c8ee78626acff7",
@@ -632,13 +443,10 @@
       "lineUrl": "https://lin.ee/OcLE0No",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買資格時間：2026/11/06 11:00~2026/11/07 20:30",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-b42b7d1a8b633773",
@@ -654,13 +462,10 @@
       "lineUrl": "https://lin.ee/8J8uWXa",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 20:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-b7d202f06bbb1a73",
@@ -676,13 +481,10 @@
       "lineUrl": "https://lin.ee/6DjeVDP",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T16:19:02.894Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-b3d36e6c2d3ca412",
@@ -698,13 +500,10 @@
       "lineUrl": "https://lin.ee/PsIA9y7Q",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-37e338abfdec0f1b",
@@ -720,13 +519,10 @@
       "lineUrl": "https://lin.ee/6cABqwU",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-397f1bd5b86a5074",
@@ -742,13 +538,10 @@
       "lineUrl": "https://lin.ee/qp5A2CG",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.069Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-4244d03723b62450",
@@ -764,13 +557,10 @@
       "lineUrl": "https://lin.ee/XnU9eyl",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/販售時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-82bc96859547cc12",
@@ -786,13 +576,10 @@
       "lineUrl": "https://lin.ee/PpVQMlN",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 10:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-4791c48128dca163",
@@ -808,13 +595,10 @@
       "lineUrl": "https://lin.ee/ObOlKaZ",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 10:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-ded8fb1d669b6bf0",
@@ -830,13 +614,10 @@
       "lineUrl": "https://lin.ee/yNKVKHo",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.875Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-c8db2083f528b9ee",
@@ -852,13 +633,10 @@
       "lineUrl": "https://lin.ee/pE1w1ZJ",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.876Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買資格時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-4d4219833671cb0a",
@@ -874,13 +652,10 @@
       "lineUrl": "https://lin.ee/TGlOKTH",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.876Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選/購買資格時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-7a5b406a6b3769db",
@@ -896,7 +671,7 @@
       "lineUrl": "https://lin.ee/wYBwDB7",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.876Z",
+      "fetchedAt": "2026-11-05T13:36:34.070Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
       "purchaseWindows": [
@@ -909,10 +684,7 @@
           "endsAt": "2026-11-07T21:00:00+08:00"
         }
       ],
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
-      "sourcePeriodText": "抽選開始：2026/11/06 11:00 ｜ 購買資格券有效期間：2026/11/06 11:00~22:00、2026/11/07 11:00~21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-384c328992c0a7d9",
@@ -928,13 +700,10 @@
       "lineUrl": "https://lin.ee/5nondXS",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.876Z",
+      "fetchedAt": "2026-11-05T16:19:02.894Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     },
     {
       "id": "r-897bd76aa0bbf98d",
@@ -950,14 +719,11 @@
       "lineUrl": "https://lin.ee/vm13nnh",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T16:30:48.876Z",
+      "fetchedAt": "2026-11-05T16:19:02.894Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
-      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
     }
   ],
-  "updatedAt": "2026-11-05T16:30:48.878Z"
+  "updatedAt": "2026-11-05T16:33:33.043Z"
 }
