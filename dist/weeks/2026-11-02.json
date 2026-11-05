@@ -3,6 +3,42 @@
   "week": "2026-11-02",
   "records": [
     {
+      "id": "r-8bd36e4633fa1990",
+      "storeId": "s-cde2473e68b17f2a",
+      "storeName": "汐科遠雄",
+      "region": "新北市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 (五)上午11:00 ～ 2026/11/07 (六)晚上21:00",
+      "lineUrl": "https://lin.ee/sMjqSbg",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0yqpuZfXQR7PWYu1VHKKP33UMPW6PUQMFfrZ72XbzHNBxaZLmw5GKtczkcAHsYb9Ll&id=61592991209842",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-11-05T13:46:00.594Z",
+      "parseStatus": "parsed",
+      "week": "2026-11-02"
+    },
+    {
+      "id": "r-75054e62c50ea664",
+      "storeId": "s-503ef4097c663419",
+      "storeName": "漢神巨蛋",
+      "region": "高雄市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝撃對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06上午11:00 ～ 2026/11/07晚上21:00",
+      "lineUrl": "https://lin.ee/7YXUCTu",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0uHkqwcaMcmcuyuyznYSgf9fEDEFz7ayzpkQ8XM8ryLaM123J9VMow8xXiCHrh7Kpl&id=100054441671873",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-11-05T13:55:24.883Z",
+      "parseStatus": "parsed",
+      "week": "2026-11-02"
+    },
+    {
       "id": "r-241ab69179d0952d",
       "storeId": "s-3ff5a06b4f198987",
       "storeName": "天母SOGO",
@@ -554,43 +590,7 @@
         }
       ],
       "sourceNote": "使用者授權的第三方彙整来源，尚未逐項核對官方公告"
-    },
-    {
-      "id": "r-8bd36e4633fa1990",
-      "storeId": "s-cde2473e68b17f2a",
-      "storeName": "汐科遠雄",
-      "region": "新北市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06 (五)上午11:00 ～ 2026/11/07 (六)晚上21:00",
-      "lineUrl": "https://lin.ee/sMjqSbg",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0yqpuZfXQR7PWYu1VHKKP33UMPW6PUQMFfrZ72XbzHNBxaZLmw5GKtczkcAHsYb9Ll&id=61592991209842",
-      "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T13:46:00.594Z",
-      "parseStatus": "parsed",
-      "week": "2026-11-02"
-    },
-    {
-      "id": "r-75054e62c50ea664",
-      "storeId": "s-503ef4097c663419",
-      "storeName": "漢神巨蛋",
-      "region": "高雄市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝撃對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06上午11:00 ～ 2026/11/07晚上21:00",
-      "lineUrl": "https://lin.ee/7YXUCTu",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0uHkqwcaMcmcuyuyznYSgf9fEDEFz7ayzpkQ8XM8ryLaM123J9VMow8xXiCHrh7Kpl&id=100054441671873",
-      "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T13:55:24.883Z",
-      "parseStatus": "parsed",
-      "week": "2026-11-02"
     }
   ],
-  "updatedAt": "2026-11-05T14:00:54.645Z"
+  "updatedAt": "2026-11-05T14:35:37.458Z"
 }
