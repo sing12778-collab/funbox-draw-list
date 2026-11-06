@@ -45,17 +45,22 @@
     },
     {
       "id": "s-372bb48207d2e366",
-      "name": "彰化家樂福",
+      "name": "彰化萬家福",
       "region": "彰化縣",
       "lineId": "@766sgllj",
       "aliases": [
         "彰化家樂福",
-        "來玩聚-彰化店"
+        "來玩聚-彰化店",
+        "彰化萬家福",
+        "Funbox-彰化萬家福店"
       ],
       "facebookUrls": [
         "https://www.facebook.com/share/197exbwVg4/"
       ],
-      "sourceStatus": "configured-user-provided"
+      "sourceStatus": "configured-user-provided",
+      "legacyStoreIds": [
+        "s-a2e81ce3fefe206d"
+      ]
     },
     {
       "id": "s-e86c5db45e9f19c2",
@@ -1086,17 +1091,6 @@
         "https://www.facebook.com/profile.php?id=61593737335376"
       ],
       "sourceStatus": "configured-user-provided"
-    },
-    {
-      "id": "s-a2e81ce3fefe206d",
-      "name": "彰化萬家福",
-      "region": "彰化縣",
-      "lineId": "",
-      "aliases": [
-        "Funbox-彰化萬家福店"
-      ],
-      "facebookUrls": [],
-      "sourceStatus": "supplemental-only-unverified-official"
     }
   ]
 }
