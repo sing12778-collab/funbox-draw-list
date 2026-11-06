@@ -178,9 +178,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/6(五)11:00 ～ 2026/11/7(六)21:00 ～ 2026/11/6（五） ～ 2026/11/7（六） \n ～ 2026/11/6（五）11：00 ～ 2026/11/7（六）21：00",
       "lineUrl": "https://lin.ee/PDLwxMi",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ZdPEfNNdzLyrSNZLZ4tRjPoYphttJvyY9adqg92456fkC3VQRxZiLxCBhNoGxAZLl&id=61592736394851",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0W5k3kCkH9JU5Tj9fcDe36j3ScAm13NzLgpmFxTCuN5FCdrmBup9etWSjvC6d3T3Cl&id=61592736394851",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T17:45:39.428Z",
+      "fetchedAt": "2026-11-06T04:46:21.689Z",
       "parseStatus": "parsed",
       "week": "2026-11-02",
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
@@ -344,9 +344,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/06(五) 11:00 ～ 2026/11/07(六) 21:00 ～ 2026/11/07(六) 21:00",
       "lineUrl": "https://lin.ee/ucNt4EJ",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0xuz9qkSWjKm8UbCehfbdNQJkDYyVLV2AX6rzUmvQHLWP1J8q2HgJoYYaiinRejpRl&id=61591626788210",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid032HULTmo8m4HMxyU5YMJ4Kdn2xRRqUCaEvZ4pQgAAyeRqGY6JVd3zmgV3Sei2TTzdl&id=61591626788210",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-06T02:39:42.910Z",
+      "fetchedAt": "2026-11-06T04:53:06.459Z",
       "parseStatus": "parsed",
       "week": "2026-11-02",
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
@@ -412,6 +412,28 @@
       "parseStatus": "parsed",
       "week": "2026-11-02",
       "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
+      "id": "r-ec4c8c1b86c99283",
+      "storeId": "s-d905fa8112bc11a8",
+      "storeName": "高雄左營",
+      "region": "高雄市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "10:30",
+      "startsAt": "2026-11-06T10:30:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 10:30 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/7AHngjX",
+      "sourceUrl": "https://www.facebook.com/share/p/1CgScTKkQo/",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-11-06T04:30:41.231Z",
+      "parseStatus": "parsed",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選&購買資格時間：2026/11/06 10:30～2026/11/07 21:00",
       "sourceCycleTitle": "11/06 11/07 抽選",
       "timeNeedsReview": false,
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
@@ -1489,28 +1511,6 @@
       "timeNeedsReview": false
     },
     {
-      "id": "r-ec4c8c1b86c99283",
-      "storeId": "s-d905fa8112bc11a8",
-      "storeName": "高雄左營",
-      "region": "高雄市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "10:30",
-      "startsAt": "2026-11-06T10:30:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06 10:30 ～ 2026/11/07 21:00",
-      "lineUrl": "https://lin.ee/7AHngjX",
-      "sourceUrl": "https://www.facebook.com/share/p/1CgScTKkQo/",
-      "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-06T04:30:41.231Z",
-      "parseStatus": "parsed",
-      "week": "2026-11-02",
-      "sourcePeriodText": "抽選&購買資格時間：2026/11/06 10:30～2026/11/07 21:00",
-      "sourceCycleTitle": "11/06 11/07 抽選",
-      "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
-    },
-    {
       "id": "r-a26d5ab3503305ce",
       "storeId": "s-105f7d84a1365d97",
       "storeName": "義大二館",
@@ -1599,5 +1599,5 @@
       "timeNeedsReview": false
     }
   ],
-  "updatedAt": "2026-11-06T04:32:28.065Z"
+  "updatedAt": "2026-11-06T05:05:07.364Z"
 }
