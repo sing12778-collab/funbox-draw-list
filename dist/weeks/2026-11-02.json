@@ -72,9 +72,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
       "lineUrl": "https://lin.ee/pE1w1ZJ",
-      "sourceUrl": "https://www.facebook.com/funboxtoyPacific/posts/pfbid0363tgdsdHfEr1bKne87qwTFpzd6Qh1WVd2hrSYC7SaLAF3nnRbkdn31XqrUGpw6knl",
+      "sourceUrl": "https://www.facebook.com/funboxtoyPacific/posts/pfbid022WFVihzvowGkUGhD1hAA1vuiESb5wEnMZPit9mogMnTA5LvpG1tmxZggkbCfVxYBl",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T16:47:36.664Z",
+      "fetchedAt": "2026-11-06T07:21:39.594Z",
       "parseStatus": "parsed",
       "week": "2026-11-02",
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
@@ -366,9 +366,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
       "lineUrl": "https://lin.ee/8qlf64g",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02aAwpHwVWHkz8w697GeSXw8JaY4wqKvhvsmqpDVknMrhwdB3DgSWLp3JSFtyRqv85l&id=100083960592067",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0WdJdNms9SXT17NnTveR4527M4aeqmkrYAsR3pHHKXQJ6ogCE2ELbqJiEQpqihSzxl&id=100083960592067",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-06T03:18:21.286Z",
+      "fetchedAt": "2026-11-06T07:15:57.310Z",
       "parseStatus": "parsed",
       "week": "2026-11-02"
     },
@@ -1599,5 +1599,5 @@
       "timeNeedsReview": false
     }
   ],
-  "updatedAt": "2026-11-06T05:05:07.364Z"
+  "updatedAt": "2026-11-06T07:28:48.346Z"
 }
