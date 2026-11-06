@@ -14,9 +14,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/06 (五)上午11:00 ～ 2026/11/07 (六)晚上21:00",
       "lineUrl": "https://lin.ee/sMjqSbg",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0yqpuZfXQR7PWYu1VHKKP33UMPW6PUQMFfrZ72XbzHNBxaZLmw5GKtczkcAHsYb9Ll&id=61592991209842",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid033DK6Bgt2SiYAcDev6c6UtVbx7oLBJDJPDdQWHZGtAc6wuM9ibV9Au81ChsNw9Ravl&id=61592991209842",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T13:46:00.594Z",
+      "fetchedAt": "2026-11-06T03:35:27.153Z",
       "parseStatus": "parsed",
       "week": "2026-11-02"
     },
@@ -254,9 +254,9 @@
       "endsAt": "2026-11-07T21:00:00+08:00",
       "periodText": "2026/11/06上午11:00 ～ 2026/11/07晚上21:00",
       "lineUrl": "https://lin.ee/6cABqwU",
-      "sourceUrl": "https://www.facebook.com/funboxdreammall/posts/pfbid02VjY7b1wcHV9CcQMqCXKZGmizfWYAhXND9V2sSXizuRgCbBt5ptqRqDHu1PSKkqXAl",
+      "sourceUrl": "https://www.facebook.com/funboxdreammall/posts/pfbid0RhwQ7Ck3cUVAvicGs6Wi2JaXkUxc2TZC433mjDVZCA6sG3PExbdAq8gh2x1PWrKLl",
       "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-05T17:35:45.957Z",
+      "fetchedAt": "2026-11-06T03:32:22.623Z",
       "parseStatus": "parsed",
       "week": "2026-11-02",
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
@@ -353,6 +353,24 @@
       "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
       "sourceCycleTitle": "11/06 11/07 抽選",
       "timeNeedsReview": false
+    },
+    {
+      "id": "r-a3f7d282fd8453d1",
+      "storeId": "s-1f306fb163fbb6b8",
+      "storeName": "桃園環球A19",
+      "region": "桃園市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/8qlf64g",
+      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02aAwpHwVWHkz8w697GeSXw8JaY4wqKvhvsmqpDVknMrhwdB3DgSWLp3JSFtyRqv85l&id=100083960592067",
+      "sourceType": "facebook-public-post",
+      "fetchedAt": "2026-11-06T03:18:21.286Z",
+      "parseStatus": "parsed",
+      "week": "2026-11-02"
     },
     {
       "id": "r-241ab69179d0952d",
@@ -1579,25 +1597,7 @@
       "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
       "sourceCycleTitle": "11/06 11/07 抽選",
       "timeNeedsReview": false
-    },
-    {
-      "id": "r-a3f7d282fd8453d1",
-      "storeId": "s-1f306fb163fbb6b8",
-      "storeName": "桃園環球A19",
-      "region": "桃園市",
-      "productCode": "BX-53",
-      "productName": "BX-53 極限衝擊對戰組",
-      "startTime": "11:00",
-      "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T21:00:00+08:00",
-      "periodText": "2026/11/06 11:00 ～ 2026/11/07 21:00",
-      "lineUrl": "https://lin.ee/8qlf64g",
-      "sourceUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02aAwpHwVWHkz8w697GeSXw8JaY4wqKvhvsmqpDVknMrhwdB3DgSWLp3JSFtyRqv85l&id=100083960592067",
-      "sourceType": "facebook-public-post",
-      "fetchedAt": "2026-11-06T03:18:21.286Z",
-      "parseStatus": "parsed",
-      "week": "2026-11-02"
     }
   ],
-  "updatedAt": "2026-11-06T03:21:15.362Z"
+  "updatedAt": "2026-11-06T03:51:23.622Z"
 }
