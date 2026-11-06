@@ -641,6 +641,28 @@
       "timeNeedsReview": false
     },
     {
+      "id": "r-d87a4c765c2855b7",
+      "storeId": "s-402f2e1167c4fccf",
+      "storeName": "新竹巨城",
+      "region": "新竹市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T11:00:00+08:00",
+      "periodText": "2026/11/06 11:00 ～ 2026/11/07 11:00",
+      "lineUrl": "https://lin.ee/UwJ5crG",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-05T23:49:35.320Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選/購買時間（依門市營業時間推估）：2026/11/06 11:00~22:00、2026/11/07 11:00~22:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
       "id": "r-02a57fd40a72f1a1",
       "storeId": "s-02ec25761c290301",
       "storeName": "竹北遠東",
@@ -1013,5 +1035,5 @@
       "timeNeedsReview": false
     }
   ],
-  "updatedAt": "2026-11-05T19:07:08.553Z"
+  "updatedAt": "2026-11-06T01:12:43.736Z"
 }
