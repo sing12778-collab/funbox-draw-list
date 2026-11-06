@@ -465,6 +465,28 @@
       "timeNeedsReview": false
     },
     {
+      "id": "r-a3a6200bde52c94f",
+      "storeId": "s-edcbb030d8359482",
+      "storeName": "台北忠孝遠東SOGO",
+      "region": "台北市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 11:00 ～ 2026/11/06 11:00 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/zUOYgbu",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-06T02:34:43.039Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選開始：2026/11/06 11:00 ｜ 抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
       "id": "r-cbd52fa5c7c08460",
       "storeId": "s-86b2e03583e5cec6",
       "storeName": "中和環球",
@@ -575,6 +597,38 @@
       "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
     },
     {
+      "id": "r-4c09b2d698c561d1",
+      "storeId": "s-f48cf88e5d1d480c",
+      "storeName": "宏匯廣場",
+      "region": "新北市",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "11:00",
+      "startsAt": "2026-11-06T11:00:00+08:00",
+      "endsAt": "2026-11-07T22:00:00+08:00",
+      "periodText": "2026/11/06 11:00 ～ 2026/11/07 11:00",
+      "lineUrl": "https://lin.ee/9sKv9Ek",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-06T02:34:43.039Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "purchaseWindows": [
+        {
+          "startsAt": "2026-11-06T11:00:00+08:00",
+          "endsAt": "2026-11-06T22:00:00+08:00"
+        },
+        {
+          "startsAt": "2026-11-07T11:00:00+08:00",
+          "endsAt": "2026-11-07T22:00:00+08:00"
+        }
+      ],
+      "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~22:00、2026/11/07 11:00~22:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
       "id": "r-b227d5cea6c32ae9",
       "storeId": "s-313f66d20f04f27e",
       "storeName": "桃園站前",
@@ -649,18 +703,28 @@
       "productName": "BX-53 極限衝擊對戰組",
       "startTime": "11:00",
       "startsAt": "2026-11-06T11:00:00+08:00",
-      "endsAt": "2026-11-07T11:00:00+08:00",
+      "endsAt": "2026-11-07T22:00:00+08:00",
       "periodText": "2026/11/06 11:00 ～ 2026/11/07 11:00",
       "lineUrl": "https://lin.ee/UwJ5crG",
       "sourceUrl": "https://uxux11.github.io/funbox-line/",
       "sourceType": "third-party-user-authorized",
-      "fetchedAt": "2026-11-05T23:49:35.320Z",
+      "fetchedAt": "2026-11-06T02:34:43.040Z",
       "parseStatus": "third-party-import",
       "week": "2026-11-02",
       "sourcePeriodText": "抽選/購買時間（依門市營業時間推估）：2026/11/06 11:00~22:00、2026/11/07 11:00~22:00",
       "sourceCycleTitle": "11/06 11/07 抽選",
       "timeNeedsReview": false,
-      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知",
+      "purchaseWindows": [
+        {
+          "startsAt": "2026-11-06T11:00:00+08:00",
+          "endsAt": "2026-11-06T22:00:00+08:00"
+        },
+        {
+          "startsAt": "2026-11-07T11:00:00+08:00",
+          "endsAt": "2026-11-07T22:00:00+08:00"
+        }
+      ]
     },
     {
       "id": "r-02a57fd40a72f1a1",
@@ -793,6 +857,72 @@
       "sourcePeriodText": "抽選/購買時間：2026/11/06 11:00~2026/11/07 21:00",
       "sourceCycleTitle": "11/06 11/07 抽選",
       "timeNeedsReview": false
+    },
+    {
+      "id": "r-103484f761088759",
+      "storeId": "s-e86c5db45e9f19c2",
+      "storeName": "員林大潤發",
+      "region": "彰化縣",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "10:00",
+      "startsAt": "2026-11-06T10:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 10:00 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/xL2EDyF",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-06T02:34:43.066Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選/購買時間：2026/11/06 10:00~2026/11/07 21:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
+      "id": "r-4af49197d3f84053",
+      "storeId": "s-a2e81ce3fefe206d",
+      "storeName": "彰化萬家福",
+      "region": "彰化縣",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "10:00",
+      "startsAt": "2026-11-06T10:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 10:00 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/tPLQUjp",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-06T02:34:56.571Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選/購買時間：2026/11/06 10:00~2026/11/07 21:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
+    },
+    {
+      "id": "r-f2cf8bd57eb5df11",
+      "storeId": "s-d5db8f85392da362",
+      "storeName": "斗六家樂福",
+      "region": "雲林縣",
+      "productCode": "BX-53",
+      "productName": "BX-53 極限衝擊對戰組",
+      "startTime": "10:00",
+      "startsAt": "2026-11-06T10:00:00+08:00",
+      "endsAt": "2026-11-07T21:00:00+08:00",
+      "periodText": "2026/11/06 10:00 ～ 2026/11/07 21:00",
+      "lineUrl": "https://lin.ee/9SCnRAA",
+      "sourceUrl": "https://uxux11.github.io/funbox-line/",
+      "sourceType": "third-party-user-authorized",
+      "fetchedAt": "2026-11-06T02:34:43.066Z",
+      "parseStatus": "third-party-import",
+      "week": "2026-11-02",
+      "sourcePeriodText": "抽選/購買時間：2026/11/06 10:00~2026/11/07 21:00",
+      "sourceCycleTitle": "11/06 11/07 抽選",
+      "timeNeedsReview": false,
+      "sourceNote": "使用者授權的第三方彙整來源，尚未逐項核對官方公告；缺少的時間保留未知"
     },
     {
       "id": "r-ce5efed551cb8514",
@@ -1057,5 +1187,5 @@
       "timeNeedsReview": false
     }
   ],
-  "updatedAt": "2026-11-06T01:33:52.206Z"
+  "updatedAt": "2026-11-06T02:34:56.573Z"
 }
