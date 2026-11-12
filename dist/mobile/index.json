@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "week": "2026-11-02",
-  "updatedAt": "2026-11-06T08:11:20.673Z",
-  "snapshot": "e3bed63d231f6c784ee12d486b81febd12f3a2565982f1df380092e0d7354d2e.json",
-  "sha256": "e3bed63d231f6c784ee12d486b81febd12f3a2565982f1df380092e0d7354d2e",
-  "records": 70
+  "week": "2026-11-09",
+  "updatedAt": "2026-11-12T16:39:36.438Z",
+  "snapshot": "2f5074d8f10e305bf49a7bf7862f8b07f53f94681025bf7677e8c4c6c35f8e1c.json",
+  "sha256": "2f5074d8f10e305bf49a7bf7862f8b07f53f94681025bf7677e8c4c6c35f8e1c",
+  "records": 92
 }
